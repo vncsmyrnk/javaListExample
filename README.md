@@ -6,8 +6,18 @@ In computer science, a list or sequence is an abstract data type that represents
 
 ## Run
 
+### Linear example
+
 ```
 cd src/
 javac ListBuilder.java
 java ListBuilder
+```
+
+### Interactive example
+
+```
+cd src/
+javac ListInteractive.java
+java ListInteractive
 ```
